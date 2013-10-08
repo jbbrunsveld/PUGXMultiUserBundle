@@ -22,5 +22,12 @@
     "autoload": {
         "psr-0": { "PUGX\\MultiUserBundle": "" }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-bugfix": { @composer.json }
+        }
+    },    
+    
+    
     "target-dir": "PUGX/MultiUserBundle"
 }
