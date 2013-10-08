@@ -16,9 +16,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "friendsofsymfony/user-bundle": "1.3.*"
-    },
+ 
     "suggest": {
     },
     "autoload": {
