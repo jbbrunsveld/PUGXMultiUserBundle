@@ -24,7 +24,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-bugfix": "1.4.1"
+            "dev-bugfix": "1.4.x-dev"
         }
     },    
     
