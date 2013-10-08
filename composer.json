@@ -24,7 +24,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-bugfix": { @composer.json }
+            "dev-bugfix": "1.4.1"
         }
     },    
     
